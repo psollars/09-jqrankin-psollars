@@ -1,0 +1,550 @@
+indicator,ghg_sector,n,pearson_r,pearson_p_value,spearman_r,spearman_p_value
+Proportion of population living in multidimensional poverty (%)PERCENT<10YALLAREABOTHSEX,Land-Use Change and Forestry,2,1.0,1.0,0.9999999999999999,
+Proportion of population living in multidimensional poverty (%)PERCENT<10YALLAREABOTHSEX,Total excluding LUCF,2,1.0,1.0,0.9999999999999999,
+Proportion of population living in multidimensional poverty (%)PERCENT<10YALLAREABOTHSEX,Total including LUCF,2,1.0,1.0,0.9999999999999999,
+Average share of weighted deprivations of total households (intensity) (%)PERCENTRURAL,Land-Use Change and Forestry,3,0.9905586109680736,0.08754983977095235,1.0,0.0
+Proportion of households living in multidimensional poverty (%)PERCENTRURAL,Land-Use Change and Forestry,3,0.9905586109680736,0.08754983977095235,1.0,0.0
+"GDP, PPP (current international $)",Total excluding LUCF,186,0.9449261998471131,3.461746467000047e-91,0.9546699364536176,9.019016123953444e-99
+"GDP, PPP (current international $)",Total including LUCF,186,0.9448465562106727,3.9394319136727964e-91,0.9048491997258601,3.7408444380654036e-70
+"GDP, PPP (constant 2017 international $)",Total excluding LUCF,182,0.9221075696780314,3.8288185633411954e-76,0.953408424742543,1.2978472908070416e-95
+"GDP, PPP (constant 2017 international $)",Total including LUCF,182,0.9202755062958867,2.8531891793786994e-75,0.9020255172777588,1.4046742293907436e-67
+Average share of weighted deprivations of total households (intensity) (%)PERCENTURBAN,Land-Use Change and Forestry,3,0.8547122310811761,0.34746713507713883,1.0,0.0
+Proportion of households living in multidimensional poverty (%)PERCENTURBAN,Land-Use Change and Forestry,3,0.8547122310811761,0.34746713507713883,1.0,0.0
+GDP (constant 2015 US$),Total excluding LUCF,189,0.842667357427472,3.636634635965981e-52,0.9297605716418706,4.431993345407483e-83
+GDP (constant 2015 US$),Total including LUCF,189,0.8379428774925657,4.573695563540962e-51,0.8757052204980537,4.9501553008078945e-61
+GDP (current US$),Total excluding LUCF,190,0.8211989481437685,1.1094803259043585e-47,0.9297598271420262,1.628941373929613e-83
+GDP (current US$),Total including LUCF,190,0.8161218230332219,1.193591217505332e-46,0.8745432516719374,5.4002586503848825e-61
+"Stocks traded, total value (% of GDP)",Total excluding LUCF,98,0.5496025676875917,4.603590425854955e-09,0.5725187919591453,7.308644651755413e-10
+"Stocks traded, total value (% of GDP)",Total including LUCF,98,0.5428123458378649,7.736582034895412e-09,0.49147269029448704,2.765861937692768e-07
+"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)NUMBER",Total including LUCF,100,0.531187776131259,1.3028046287794461e-08,0.03018926890211129,0.7655771435951547
+"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)NUMBER",Total excluding LUCF,100,0.5270317043243078,1.770334876163029e-08,-0.05636997885743861,0.577489227916818
+Claims on other sectors of the domestic economy (% of GDP),Total excluding LUCF,47,0.5058188121181528,0.00028676275852360225,0.3501387604070305,0.015834209793503883
+Claims on other sectors of the domestic economy (% of GDP),Total including LUCF,47,0.4986967661925833,0.000360048189869793,0.2635291396854764,0.07348580588306629
+Domestic credit provided by financial sector (% of GDP),Total excluding LUCF,57,0.4694569717759863,0.00022964072843980184,0.2850012963443091,0.031648235594186884
+Domestic credit provided by financial sector (% of GDP),Total including LUCF,57,0.45921909162489805,0.00032671985350281335,0.21292455276121341,0.11178389878220646
+Average share of weighted deprivations of total households (intensity) (%)PERCENTRURAL,Total including LUCF,3,0.456525736377026,0.6981872684717375,0.5,0.6666666666666667
+Proportion of households living in multidimensional poverty (%)PERCENTRURAL,Total including LUCF,3,0.456525736377026,0.6981872684717375,0.5,0.6666666666666667
+Number of people whose destroyed dwellings were attributed to disasters (number)NUMBER,Total including LUCF,160,0.45312885134990016,1.78115779529887e-09,0.1383442960983523,0.08105267101681429
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGERURALBOTHSEX,Land-Use Change and Forestry,55,0.4240768445254109,0.0012529302333808541,0.5077200577200579,7.600585162897283e-05
+Number of people whose destroyed dwellings were attributed to disasters (number)NUMBER,Total excluding LUCF,160,0.42379038796483715,2.3509497727020633e-08,0.0937664602830821,0.2382536459860482
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YRURALBOTHSEX,Land-Use Change and Forestry,9,0.34999726032835066,0.35582359825933946,0.39999999999999997,0.2861051019083129
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGERURALBOTHSEX,Land-Use Change and Forestry,21,0.34247485265149774,0.12858525560696948,0.5727272727272726,0.0066565204968267976
+Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)CU_USD_M,Total excluding LUCF,122,0.33646439696708147,0.00015113033177216662,0.2518882517264298,0.005128780152289848
+Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)NUMBER,Total excluding LUCF,102,0.32887293475010715,0.0007383975401043627,0.46976695452257244,6.321212260454152e-07
+Number of people affected by disaster (number)NUMBER,Total including LUCF,160,0.3272754747218041,2.3977889904767393e-05,0.25979453996775276,0.0009080880065052213
+Number of people affected by disaster (number)NUMBER,Total excluding LUCF,160,0.3249584990293406,2.758178198819741e-05,0.2263023647116926,0.004008320031747404
+Domestic credit to private sector (% of GDP),Total excluding LUCF,180,0.3196411936319847,1.2206954712567057e-05,0.2425445229791043,0.0010361206855832362
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGEURBANBOTHSEX,Land-Use Change and Forestry,21,0.3186270400212648,0.15921090705017435,0.4883116883116883,0.024707524935187183
+Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)CU_USD_M,Total including LUCF,122,0.3163156949328621,0.00038604817716508165,0.1988346791268035,0.028123217151330315
+Domestic credit to private sector (% of GDP),Total including LUCF,180,0.3072521017424816,2.7234423165484438e-05,0.13390948280296716,0.07310923314298293
+Number of local governments (number)NUMBER,Total excluding LUCF,106,0.3051049384619896,0.0014717897455949448,0.31019227842144553,0.0012123114324473295
+"Inflation, GDP deflator (annual %)",Land-Use Change and Forestry,190,0.30412255481384254,1.991326059348239e-05,0.21811616014205237,0.0025014281819338603
+"Inflation, GDP deflator: linked series (annual %)",Land-Use Change and Forestry,190,0.30321484436619073,2.1140350368534815e-05,0.1986554322717221,0.006002485188930868
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGEALLAREABOTHSEX,Land-Use Change and Forestry,28,0.29320331617858436,0.12996110681367937,0.416313128299888,0.027551031874769778
+Broad money (% of GDP),Total excluding LUCF,161,0.28483483206556315,0.00025011287329045165,0.14809063722107202,0.06082452334109038
+GDP (current LCU),Land-Use Change and Forestry,190,0.28255347230527733,7.821034637772213e-05,0.08551811959860842,0.24073259658326854
+GDP: linked series (current LCU),Land-Use Change and Forestry,190,0.279154210659361,9.607134245519218e-05,0.08733120914017367,0.23086854352267627
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTFEMALE",Total excluding LUCF,10,0.27904227228985623,0.43494463559591673,0.21624970671153415,0.5484614880116812
+Broad money (% of GDP),Total including LUCF,161,0.27807195084669134,0.00035487638528772995,0.05572233724407638,0.4826331354572111
+Research and development expenditure (% of GDP),Total excluding LUCF,139,0.27428004177163656,0.0010853720209569855,0.4350373117654944,8.714619927145287e-08
+Number of injured or ill people attributed to disasters (number)NUMBER,Total excluding LUCF,145,0.27351955640550624,0.0008721550589678576,0.3988475086256608,6.730953651251751e-07
+Number of injured or ill people attributed to disasters (number)NUMBER,Total including LUCF,145,0.2708953804600139,0.0009820313796582753,0.40284013777873845,5.07748486488255e-07
+Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)NUMBER,Total including LUCF,102,0.2702221435493966,0.006018508111051432,0.4780082812986838,3.7590554220151084e-07
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)PERCENT,Total excluding LUCF,102,0.26608042293432865,0.006870180926332109,0.3779716462670537,8.980419383846519e-05
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREABOTHSEX,Land-Use Change and Forestry,64,0.26411734347607085,0.03495321187642124,0.36095975128275604,0.00338691600350155
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTFEMALE",Total including LUCF,10,0.26393602073638545,0.46120692550236947,0.21624970671153415,0.5484614880116812
+Research and development expenditure (% of GDP),Total including LUCF,139,0.2619340394549122,0.0018404459480563645,0.324040395013182,9.966163546679203e-05
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTMALE",Total excluding LUCF,10,0.2547693400717453,0.4774785039111691,0.06054991787922956,0.8680315985834244
+Number of local governments (number)NUMBER,Total including LUCF,106,0.2505486762771091,0.009585679328057397,0.28754333440558516,0.002801432590240146
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)PERCENT,Total including LUCF,102,0.24929345940101855,0.01151275918914087,0.37816697154440965,8.899275945449116e-05
+CO2 emissions (kg per PPP $ of GDP),Total excluding LUCF,186,0.24450759790417534,0.000770007696218981,0.243957498985962,0.0007920662630266153
+"Manufacturing, value added (% of GDP)",Total including LUCF,184,0.24256337524777596,0.0009080959114312625,0.44641983394656237,2.1318675599163822e-10
+"Gross fixed capital formation, private sector (% of GDP)",Total excluding LUCF,102,0.24083761943408735,0.014753727799590522,0.18550644327710897,0.061947728494046964
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTMALE",Total including LUCF,10,0.23984930765317625,0.5044851658828692,0.06054991787922956,0.8680315985834244
+"Gross fixed capital formation, private sector (% of GDP)",Total including LUCF,102,0.23802574421778513,0.015994244788471744,0.14782500523039172,0.13814925934045497
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTFEMALE",Total excluding LUCF,12,0.23763803281607482,0.45704306962717023,0.39304183206703214,0.20625575661998335
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTMALE",Total excluding LUCF,12,0.23763803281607476,0.45704306962717023,0.39304183206703214,0.20625575661998335
+Number of missing persons due to disaster (number)NUMBER,Total including LUCF,147,0.23313250596843987,0.004487134494090072,0.21148251150744765,0.010130238528923249
+"Manufacturing, value added (% of GDP)",Total excluding LUCF,184,0.2327953194945023,0.00147236363304903,0.4922213018435399,1.2801313108086055e-12
+CO2 emissions (kg per 2017 PPP $ of GDP),Total excluding LUCF,182,0.23233166408621153,0.0015993249369570617,0.23026163221797674,0.0017652422234328124
+Number of people whose damaged dwellings were attributed to disasters (number)NUMBER,Total including LUCF,160,0.2277419398786612,0.003775843867228073,0.256644084566242,0.0010532125105589907
+Number of people whose damaged dwellings were attributed to disasters (number)NUMBER,Total excluding LUCF,160,0.22581957144881254,0.004089120782443761,0.2316048133095273,0.0032108111456615545
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTFEMALE",Total including LUCF,12,0.21706047728872463,0.4979933077387264,0.30569920271880274,0.3338931364506602
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTMALE",Total including LUCF,12,0.21706047728872457,0.4979933077387264,0.30569920271880274,0.3338931364506602
+CO2 emissions (kg per PPP $ of GDP),Total including LUCF,186,0.21681883861853404,0.002953631591195715,0.15932285571754262,0.029846618470589878
+CO2 emissions (kg per 2017 PPP $ of GDP),Total including LUCF,182,0.21211011002753324,0.004045543670689534,0.15638713247625483,0.03501102157616047
+Direct economic loss in the housing sector attributed to disasters (current United States dollars)CU_USD,Land-Use Change and Forestry,143,0.20853227678640465,0.012442568854173722,0.02016232186012141,0.811094338004057
+Domestic credit to private sector by banks (% of GDP),Total excluding LUCF,180,0.20397466221657237,0.006023903592008339,0.23886951243351132,0.0012408407783406309
+Number of missing persons due to disaster (number)NUMBER,Total excluding LUCF,147,0.20381663102599049,0.013282706755452098,0.15555637624030666,0.05991896584510885
+Monetary Sector credit to private sector (% GDP),Total excluding LUCF,180,0.20332985277814,0.006188763042407642,0.23523565542146363,0.0014790773265421398
+GDP (constant LCU),Land-Use Change and Forestry,190,0.2032230222444095,0.0049210513193846585,0.05140734808339513,0.4811891236014926
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTFEMALE",Total excluding LUCF,44,0.1980413420289134,0.1975208502296009,0.08725991324900408,0.573278442271075
+Domestic credit to private sector by banks (% of GDP),Total including LUCF,180,0.19552397964412124,0.008528648706942213,0.13104725454489335,0.07951543191406728
+Score of adoption and implementation of national DRR strategies in line with the Sendai FrameworkINDEX,Total excluding LUCF,118,0.1949002356715874,0.034434452225456616,0.10239007849612188,0.2698953956810332
+Monetary Sector credit to private sector (% GDP),Total including LUCF,180,0.19486285124269165,0.008758924967488401,0.12751422369003157,0.08803883507284134
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YURBANBOTHSEX,Land-Use Change and Forestry,9,0.18658824138070335,0.6307416235360602,0.2333333333333333,0.5456987782182727
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTMALE",Total excluding LUCF,44,0.17747188801456187,0.24911477371361399,0.07641875695038206,0.6219887415271603
+Score of adoption and implementation of national DRR strategies in line with the Sendai FrameworkINDEX,Total including LUCF,118,0.17434847594058042,0.058994122424471926,0.10394620312827842,0.2626446175799319
+Direct economic loss in the housing sector attributed to disasters (current United States dollars)CU_USD,Total including LUCF,143,0.174156746973347,0.03750182449316932,0.19386501077764645,0.02034104318905219
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTFEMALE",Total including LUCF,44,0.1717572665966049,0.26492782567909823,0.052581498613697125,0.734624900847724
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTMALE",Total including LUCF,44,0.17046548500150321,0.268592680016041,0.045682061350412896,0.7684134605460808
+[World Bank] Proportion of population covered by social insurance programs (%)PERCENT,Total excluding LUCF,115,0.16447693688532394,0.07899732543380701,0.2789158052552671,0.0025402625329308663
+Market capitalization of listed domestic companies (% of GDP),Total excluding LUCF,96,0.15997928078921414,0.11947439509745338,0.20733857840477482,0.042665820635042574
+Market capitalization of listed domestic companies (% of GDP),Total including LUCF,96,0.15948065481691792,0.12064607546490355,0.15666033640803037,0.12744058735590272
+"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,33,0.15816708088944142,0.3793368286017829,0.1668477952300706,0.35338751535557755
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREABOTHSEX,Land-Use Change and Forestry,165,0.15454194506410365,0.04748381336784532,0.5703662885116523,1.2744458668658491e-15
+Gross domestic savings (% of GDP),Total including LUCF,172,0.1543572327192802,0.04320239619454861,0.44890725267261444,6.561122360568811e-10
+Proportion of population below international poverty line (%)PERCENTALLAGEURBANBOTHSEX,Land-Use Change and Forestry,138,0.15373133263845923,0.0718251744289584,0.6236885088295975,3.0620049802684685e-16
+Gross capital formation (% of GDP),Total excluding LUCF,171,0.15297918334427146,0.04576402212478354,0.024011807905536756,0.7552403717270937
+Gross domestic savings (% of GDP),Total excluding LUCF,172,0.15209879147594824,0.046391304688526085,0.47398136421845033,5.1157743858385345e-11
+GDP per capita growth (annual %),Total excluding LUCF,190,0.14931883710317947,0.0397653841074055,0.022925551225358335,0.7535492357593732
+Proportion of population living below the national poverty line (%)PERCENTALLAREA,Land-Use Change and Forestry,147,0.14524293078936734,0.07921421427605618,0.5659076368247059,8.071429149070202e-14
+Gross capital formation (% of GDP),Total including LUCF,171,0.14370988612633265,0.06076346939464779,-0.012105503155974756,0.8751308281502201
+GDP per capita growth (annual %),Total including LUCF,190,0.1433311842586531,0.04851323320030183,-0.024131008148643864,0.7410402002659044
+Forest rents (% of GDP),Land-Use Change and Forestry,190,0.13940831928071604,0.055071917651745274,0.4781948552755294,3.005001816647774e-12
+"Proportion of population using basic drinking water services, by location (%)PERCENTURBAN",Total excluding LUCF,168,0.13904210522020247,0.07225980872201622,0.2827238126702332,0.00020464875071366228
+Proportion of population below international poverty line (%)PERCENTALLAGERURALBOTHSEX,Land-Use Change and Forestry,134,0.13863100153001734,0.11016346761804977,0.6757250886922718,3.3492551483006715e-19
+[World Bank] Proportion of population covered by social insurance programs (%)PERCENT,Total including LUCF,115,0.13742086768624073,0.14304824444288694,0.141986901286199,0.1301054817265647
+Gross fixed capital formation (% of GDP),Total excluding LUCF,170,0.13635376994726053,0.07622718157601653,0.008840932822833276,0.908902143105004
+Proportion of population below international poverty line (%)PERCENT<15YALLAREABOTHSEX,Land-Use Change and Forestry,142,0.13124392183490552,0.1195011706538756,0.6519645543444004,1.5259014778790113e-18
+CO2 emissions (kg per 2015 US$ of GDP),Total excluding LUCF,187,0.13021655076576075,0.07568089182174809,0.1924840067679908,0.008308799256953525
+Gross fixed capital formation (% of GDP),Total including LUCF,170,0.12898117618862212,0.09367735895552164,-0.032375229755558406,0.6751307231279264
+Proportion of population below international poverty line (%)PERCENT15-64ALLAREABOTHSEX,Land-Use Change and Forestry,142,0.12845722826628037,0.12762514609780623,0.6353226197776578,2.0256134059016675e-17
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,95,0.12833705268806733,0.21517957265898874,0.31404542424779025,0.0019402955814012144
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Total including LUCF,160,0.12795324342648629,0.10686632759770653,0.3976678776514707,1.918419189049874e-07
+Direct economic loss in the housing sector attributed to disasters (current United States dollars)CU_USD,Total excluding LUCF,143,0.12772570507177525,0.1284593186651862,0.2071652878307974,0.013043197366896245
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREAMALE,Land-Use Change and Forestry,139,0.12709848635559687,0.13596382143279012,0.6458020322118133,9.19696384511224e-18
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTMALE",Total excluding LUCF,59,0.12675546073939806,0.3387382044435114,0.10195050759582473,0.4422812557904585
+GDP (current LCU),Total including LUCF,190,0.12649282356495714,0.0820225005188028,0.6456044124272288,8.66298362212783e-24
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREAFEMALE,Land-Use Change and Forestry,139,0.12582153168422028,0.13997333340001827,0.6499269921662195,4.863498950107374e-18
+GDP: linked series (current LCU),Total including LUCF,190,0.12547857024818024,0.08452501327612023,0.6423904438233455,1.692500281123786e-23
+"Proportion of population using basic drinking water services, by location (%)PERCENTURBAN",Total including LUCF,168,0.12489870797164407,0.10672090255722953,0.1518208873268372,0.04946809790308363
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,175,0.12472971835003269,0.10004753888154097,0.15152753586353024,0.04531385680154688
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Total excluding LUCF,160,0.12409604998553103,0.1179475743472607,0.39308859721082856,2.721972290678507e-07
+"Proportion of population using basic sanitation services, by location (%)PERCENTURBAN",Total excluding LUCF,167,0.12390071155032813,0.1106502918289615,0.305141981725047,6.078516765261463e-05
+Current health expenditure (% of GDP),Total excluding LUCF,188,0.12173713126236702,0.09606473782580223,-0.03230408862448912,0.6598703529264075
+Proportion of population below international poverty line (%)PERCENT65+ALLAREABOTHSEX,Land-Use Change and Forestry,141,0.12076563453387669,0.15373161339362448,0.64180560207001,9.864417168366242e-18
+"Claims on central government, etc. (% GDP)",Total including LUCF,180,0.12059675363696418,0.10683268926033,0.1501424941099005,0.044245479382611634
+"Employed population below international poverty line, by sex and age (%)PERCENT25+MALE",Land-Use Change and Forestry,133,0.11966070139509837,0.17009366120954816,0.504759803549642,5.819013762455903e-10
+External balance on goods and services (% of GDP),Total including LUCF,176,0.11948998399575703,0.11420244186129691,0.5280519480519481,5.023551462953979e-14
+"Proportion of population using basic drinking water services, by location (%)PERCENTRURAL",Total excluding LUCF,166,0.1190653999494103,0.1265376305830521,0.21516280777193164,0.005370720337404307
+"Employed population below international poverty line, by sex and age (%)PERCENT25+BOTHSEX",Land-Use Change and Forestry,133,0.11904337100782997,0.17232398380197822,0.5162714828540237,2.010623163445073e-10
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,88,0.11879468048570685,0.27030175446643895,0.07173300350681187,0.5065942770854668
+"Employed population below international poverty line, by sex and age (%)PERCENT25+FEMALE",Land-Use Change and Forestry,133,0.11726020851208792,0.1788876367581325,0.5201809977955107,1.388782336189153e-10
+"Employed population below international poverty line, by sex and age (%)PERCENT15+MALE",Land-Use Change and Forestry,133,0.11724781741101731,0.1789338814467577,0.5131692249224383,2.6878354972352984e-10
+"Employed population below international poverty line, by sex and age (%)PERCENT15+BOTHSEX",Land-Use Change and Forestry,133,0.11665102028910483,0.1811715996562499,0.5159215688988225,2.0778505878867157e-10
+"Employed population below international poverty line, by sex and age (%)PERCENT15+FEMALE",Land-Use Change and Forestry,133,0.11487712190926759,0.18794404067609857,0.5178949365142435,1.7252338705588664e-10
+[World Bank] Proportion of population covered by social assistance programs (%)PERCENT,Total excluding LUCF,111,0.11482528661248927,0.23012428785114597,0.23604773604773602,0.012627118585374339
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTBOTHSEX",Total including LUCF,95,0.11410050212191403,0.27090019153205264,0.15307833239440377,0.1386025564406568
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTFEMALE",Total excluding LUCF,59,0.11394158581659353,0.3901864534581141,0.2560987422743311,0.050250149696361136
+"Proportion of population using basic drinking water services, by location (%)PERCENTALLAREA",Total excluding LUCF,192,0.11349783025134735,0.11700446162866004,0.20877112745472254,0.003660595444260895
+"Industry (including construction), value added (% of GDP)",Total including LUCF,186,0.11335470711085817,0.12343856110644198,0.49503797397535537,6.842099176676604e-13
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTMALE",Total including LUCF,59,0.11318949370772419,0.3933429841993993,0.006748496956697618,0.9595425444383767
+Number of missing persons due to disaster (number)NUMBER,Land-Use Change and Forestry,147,0.11305580100438661,0.1727557052773837,0.3386749135795699,2.7186032999956267e-05
+External balance on goods and services (% of GDP),Total excluding LUCF,176,0.11277618661042513,0.13616045494995294,0.538828967642527,1.2170529888206945e-14
+CO2 emissions (kg per 2015 US$ of GDP),Total including LUCF,187,0.11256992417162867,0.12504721874394528,0.13650677716647275,0.06247414350894278
+"Central government debt, total (% of GDP)",Land-Use Change and Forestry,96,0.11162753987839585,0.27890472012560763,0.027815116691833498,0.7879193775414866
+Current health expenditure (% of GDP),Total including LUCF,188,0.11121104028319077,0.1286627811328,-0.08764924409480103,0.23166764592420971
+"Claims on central government, etc. (% GDP)",Total excluding LUCF,180,0.11031338385692036,0.14042733892602366,0.1494902106032079,0.04518608753956214
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24MALE",Land-Use Change and Forestry,133,0.10922040992071116,0.21077071199387354,0.5117552236972363,3.0651145799707655e-10
+"Proportion of population using basic sanitation services, by location (%)PERCENTURBAN",Total including LUCF,167,0.10880330061424788,0.16161918861542535,0.17194455311654538,0.02629015124017652
+GDP per capita (current US$),Total excluding LUCF,190,0.10831877738285958,0.13685666752742226,0.24723851513600759,0.0005838555967797141
+"GDP per capita, PPP (constant 2017 international $)",Total excluding LUCF,182,0.10831745591318682,0.14553085756981524,0.3472919617290598,1.560722110426514e-06
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24BOTHSEX",Land-Use Change and Forestry,133,0.10825492942231553,0.21485679714109457,0.5114357487333349,3.1571769011977283e-10
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTBOTHSEX",Total including LUCF,88,0.10823766272310996,0.3154778471004761,-0.04477584322616103,0.6787007380449797
+GDP (constant LCU),Total including LUCF,190,0.10685314202446816,0.14227982997424632,0.6278584769078018,3.173260598676671e-22
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTBOTHSEX",Total including LUCF,175,0.10667329461017432,0.16000509322155157,0.06110253973237105,0.42181937085047916
+"Industry (including construction), value added (% of GDP)",Total excluding LUCF,186,0.1053935925568239,0.15223610615462832,0.5125419019157159,7.519677225728824e-14
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24FEMALE",Land-Use Change and Forestry,133,0.10490331176241763,0.22947861191669694,0.5108683597635625,3.3272982904574063e-10
+"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)PERCENTFEMALE",Total excluding LUCF,10,0.10372929314819557,0.7755179249956143,0.34545454545454546,0.32822651147136733
+Number of deaths and missing persons attributed to disasters (number)NUMBER,Total including LUCF,156,0.10331381923647519,0.19933497210672757,0.4238881952088508,3.507410424371337e-08
+"PPP conversion factor, GDP (LCU per international $)",Land-Use Change and Forestry,187,0.10268816458857512,0.16195584207736002,0.28359904468351155,8.381663664218489e-05
+"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)PERCENT",Land-Use Change and Forestry,42,0.10201510650056181,0.5203137154044382,0.17266538383275598,0.27418842214710987
+[World Bank] Proportion of population covered by social assistance programs (%)PERCENT,Total including LUCF,111,0.10111347916911252,0.2909926820602616,0.15345735345735345,0.10783267536474031
+"Proportion of population using basic drinking water services, by location (%)PERCENTRURAL",Total including LUCF,166,0.10091311898785708,0.19578462229672422,0.08206161178135626,0.29322435581679834
+"GDP per capita, PPP (current international $)",Total excluding LUCF,186,0.10011394446735149,0.17396096104470343,0.359523332198854,4.6619814953461886e-07
+Number of deaths due to disaster (number)NUMBER,Total including LUCF,155,0.0998279244129425,0.2165042902749945,0.45335283580954644,3.1491524303869984e-09
+Gross savings (% of GDP),Total excluding LUCF,167,0.09966673608204592,0.20001899997678513,0.31378379214033214,3.6386469395184634e-05
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTFEMALE",Total including LUCF,59,0.09909380281574598,0.4552392878230125,0.16882503315047862,0.20117131123664117
+"Proportion of population using basic sanitation services, by location (%)PERCENTALLAREA",Total excluding LUCF,192,0.09855446196493971,0.17382786407392337,0.26583626997016596,0.00019395395889546468
+"Proportion of population using basic drinking water services, by location (%)PERCENTALLAREA",Total including LUCF,192,0.09787998666534772,0.1768063139598304,0.08884857430713981,0.2203839049766982
+GDP per capita (current US$),Total including LUCF,190,0.09785085450686291,0.1792377064390048,0.14666946598608213,0.04345693629539101
+Number of deaths and missing persons attributed to disasters (number)NUMBER,Total excluding LUCF,156,0.09631762163463493,0.23165182836513218,0.3853826577206789,6.765525229956962e-07
+"Agriculture, forestry, and fishing, value added (% of GDP)",Land-Use Change and Forestry,188,0.09559782541838449,0.19188594861828792,0.40993680877924843,5.155129980824307e-09
+"GDP per capita, PPP (constant 2017 international $)",Total including LUCF,182,0.09535619177511,0.20037572388469357,0.23363367906434657,0.0015023916608943074
+Direct agriculture loss attributed to disasters (current United States dollars)CU_USD,Total including LUCF,140,0.0941511414865567,0.26851726195094683,0.23821012125190993,0.004594236966377288
+GDP per capita (constant 2015 US$),Total excluding LUCF,189,0.094091309449639,0.19780887339025743,0.231929113564052,0.0013216021340319158
+"Proportion of population using basic sanitation services, by location (%)PERCENTRURAL",Total excluding LUCF,165,0.0935606976706975,0.23197131517165187,0.2666501054657742,0.000536092666316386
+Number of deaths due to disaster (number)NUMBER,Total excluding LUCF,155,0.09340138205984756,0.24769997652595063,0.4185715422865695,5.961792504396464e-08
+Gross savings (% of GDP),Total including LUCF,167,0.09312361650404981,0.23131183189819587,0.2631664382079215,0.0005901787725472447
+GDP per person employed (constant 2017 PPP $),Total excluding LUCF,171,0.09303075057390067,0.22618737138893735,0.3414308685530516,4.874122568277193e-06
+Price level ratio of PPP conversion factor (GDP) to market exchange rate,Total excluding LUCF,186,0.09227042020292854,0.21035443766695555,-0.08048617877839889,0.2748075935251993
+GDP per capita (current LCU),Land-Use Change and Forestry,190,0.09103515484354034,0.2116109855118061,0.0845621110136788,0.246050668490268
+"GDP per capita, PPP (current international $)",Total including LUCF,186,0.08941515646987831,0.2248729966405961,0.2502906908979015,0.0005699934026456827
+"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,126,0.08898798877566737,0.32173437482981837,0.2866039129209906,0.0011395522880543755
+Domestic general government health expenditure (% of GDP),Total excluding LUCF,188,0.08613051699987416,0.23988621154129075,0.0885757268735992,0.22675249135492484
+GDP per capita (constant 2015 US$),Total including LUCF,189,0.08472117249606612,0.2464227718720281,0.13290851241579127,0.06827835939473476
+Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)CU_USD,Land-Use Change and Forestry,134,0.08447173873263225,0.33184422945567527,-0.22937930947285443,0.007675382310580376
+GDP growth (annual %),Total including LUCF,190,0.08321705070439539,0.25367043123109767,0.03660897444308853,0.6160487766731747
+"Proportion of population using basic sanitation services, by location (%)PERCENTALLAREA",Total including LUCF,192,0.0829875781031292,0.2524678062687335,0.1475198308128189,0.04115825709541632
+Price level ratio of PPP conversion factor (GDP) to market exchange rate,Total including LUCF,186,0.08119486136651108,0.27058977952187624,-0.10304770874030834,0.16162170983349297
+Households and NPISHs final consumption expenditure (% of GDP),Land-Use Change and Forestry,170,0.08101618384054991,0.29360050352992434,0.25545342198946425,0.0007735471826080243
+GDP growth (annual %),Total excluding LUCF,190,0.07985287964172755,0.27343672658869617,0.01678629383231202,0.8181909196109611
+GDP (current LCU),Total excluding LUCF,190,0.07903365777549022,0.2784041224519228,0.6170688501358108,2.5359096678178056e-21
+GDP: linked series (current LCU),Total excluding LUCF,190,0.07856513165974893,0.2812722727065526,0.6135347093737835,4.923615058309598e-21
+GDP per person employed (constant 2017 PPP $),Total including LUCF,171,0.07800291204526198,0.31054221056012127,0.21642546859625125,0.004467022330047061
+Direct agriculture loss attributed to disasters (current United States dollars)CU_USD,Total excluding LUCF,140,0.07583764455308901,0.3731644280892524,0.2553920825436571,0.0023235809319917568
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTMALE",Total excluding LUCF,23,0.07472946519384743,0.7347015589239719,0.25712973861329,0.23624410662223355
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTFEMALE",Total excluding LUCF,23,0.07472946519384742,0.7347015589239732,0.25712973861329,0.23624410662223355
+"Proportion of population using basic sanitation services, by location (%)PERCENTRURAL",Total including LUCF,165,0.07429296434176888,0.34294274051848767,0.12952553722152063,0.09729133334089622
+Direct agriculture loss attributed to disasters (current United States dollars)CU_USD,Land-Use Change and Forestry,140,0.07417622884552454,0.38375579462610415,-0.09088227530645118,0.2855636143275894
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTMALE",Total including LUCF,23,0.07224775093007105,0.7432186102342447,0.22498852128662877,0.3020047406080838
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTFEMALE",Total including LUCF,23,0.07224775093007103,0.7432186102342447,0.22498852128662877,0.3020047406080838
+GDP (constant LCU),Total excluding LUCF,190,0.0719296456424597,0.32402657674461044,0.6032034711560753,3.2675504166540114e-20
+"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)PERCENTBOTHSEX",Total including LUCF,33,0.071346186879228,0.6931729031271102,0.06252612767138918,0.7295875936032883
+Domestic general government health expenditure (% of GDP),Total including LUCF,188,0.07110462912313054,0.33221434532817207,0.0012949086791389668,0.9859288492002436
+Energy intensity level of primary energy (MJ/$2017 PPP GDP),Total including LUCF,188,0.06889779838906528,0.34747636927538494,0.162085797220296,0.02626287566167801
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YALLAREABOTHSEX,Land-Use Change and Forestry,11,0.06825164145511795,0.8419564621059913,0.30000000000000004,0.37008312228206786
+Mineral rents (% of GDP),Land-Use Change and Forestry,190,0.06644900515762989,0.3623484074470987,0.1622406259292336,0.025324721777923515
+Energy intensity level of primary energy (MJ/$2017 PPP GDP),Total excluding LUCF,188,0.06528381419287892,0.3734086329781839,0.12531904297718435,0.0866040032692892
+Current account balance (% of GDP),Total excluding LUCF,185,0.06512110993857441,0.37849393148564703,0.5069709260452598,1.7907227110951716e-13
+Current account balance (% of GDP),Total including LUCF,185,0.06502352401022496,0.3792103693180115,0.485885675296615,2.3709419168471062e-12
+"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)PERCENTBOTHSEX",Total including LUCF,126,0.06353454937683961,0.4797029336421648,0.14523976655581222,0.10465768178714963
+GDP per capita (current LCU),Total including LUCF,190,0.063029268998337,0.3876292303715067,0.19856184965030382,0.006026705985561003
+GDP deflator (base year varies by country),Land-Use Change and Forestry,190,0.06229366689132791,0.3932034551435291,-0.03456338730130177,0.6359128389608208
+GDP deflator: linked series (base year varies by country),Land-Use Change and Forestry,190,0.06206596270309682,0.39493866140070844,-0.029784219842390765,0.6833261803964051
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTMALE",Total excluding LUCF,38,0.057955000144199936,0.7296320261769024,-0.12080627260940136,0.4700021108591048
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,83,0.05657691130136091,0.6114320033314576,0.31647682829734003,0.0035588008055237124
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTMALE",Total including LUCF,38,0.05642567367204842,0.736508839709717,-0.1511659641552195,0.36496633097536946
+GDP per capita (constant LCU),Total including LUCF,190,0.05640685311810291,0.43952253798101754,0.18141601823056772,0.012246284361251586
+"Net incurrence of liabilities, total (% of GDP)",Land-Use Change and Forestry,140,0.05600277263578144,0.5110465543215186,0.09313803436771009,0.2737247830653466
+GDP per capita (constant LCU),Land-Use Change and Forestry,190,0.0537032106938582,0.4617951639438912,0.05333687456799668,0.4648603993858559
+"Services, value added (% of GDP)",Total excluding LUCF,184,0.05344918903105737,0.47115903559437333,-0.11009805243589992,0.13680580680732982
+Proportion of population living in multidimensional poverty (%)PERCENT<18YALLAREABOTHSEX,Total excluding LUCF,45,0.052957495373826664,0.7297219061580115,-0.10092891516731162,0.509454642505356
+Total natural resources rents (% of GDP),Land-Use Change and Forestry,190,0.04826309884384016,0.5084479120149338,0.3809561492576919,5.882601865295668e-08
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,80,0.04792580372110345,0.672909951286266,0.3903365790020356,0.00034434076483339453
+Proportion of population living in multidimensional poverty (%)PERCENT<18YALLAREABOTHSEX,Total including LUCF,45,0.04696999426623011,0.7593100676650726,-0.11338032833090295,0.45834681101025465
+GDP per capita (current LCU),Total excluding LUCF,190,0.04663105145314511,0.5229069994635114,0.17772966447532446,0.014157926889241064
+"Central government debt, total (% of GDP)",Total including LUCF,96,0.046538596334109665,0.6525271642678263,-0.027740097666847534,0.7884779761432692
+GDP per capita (constant LCU),Total excluding LUCF,190,0.04577763489087099,0.5305503529537386,0.16290376902115675,0.024724634467011473
+Number of people whose destroyed dwellings were attributed to disasters (number)NUMBER,Land-Use Change and Forestry,160,0.045499566986959214,0.5677878353249324,0.36349182172754657,2.3077473735362584e-06
+"Proportion of total government spending on essential services, education (%)PERCENT",Land-Use Change and Forestry,182,0.045415907108739814,0.542665693729802,0.11267488871542275,0.1299191090885295
+"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,85,0.04200498369513725,0.7026829048812121,0.3112220160426545,0.0037410424425435057
+"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)PERCENTBOTHSEX",Total including LUCF,85,0.040926898499608184,0.7099699888553902,0.1980246655378331,0.06926290197345984
+"Services, value added (% of GDP)",Total including LUCF,184,0.0401536567843424,0.5883854485322659,-0.18751131744716917,0.01080810144193086
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTBOTHSEX",Total including LUCF,83,0.037701322926230976,0.7350717897438642,0.19000810285722416,0.08533884242658583
+Final consumption expenditure (% of GDP),Land-Use Change and Forestry,172,0.03767717555667953,0.6236367509235514,0.16589248409435117,0.029638540907974822
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTBOTHSEX",Total including LUCF,80,0.03489435742164233,0.758625577107911,0.24448210817464994,0.028846266878489905
+"Inflation, GDP deflator: linked series (annual %)",Total including LUCF,190,0.03315476994366734,0.6497452782549387,0.1772205382566364,0.014441486581141
+"Inflation, GDP deflator (annual %)",Total including LUCF,190,0.033067335089154305,0.6506079015393469,0.1716463934705875,0.017885942803733644
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTFEMALE",Total excluding LUCF,38,0.03220215517338997,0.8478002638096808,-0.17744124776517123,0.28652857816085986
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTFEMALE",Total including LUCF,38,0.030687207469515768,0.8548824664098115,-0.21058571032304174,0.20441940129124495
+"Claims on central government, etc. (% GDP)",Land-Use Change and Forestry,180,0.02913987816091395,0.6977856678017673,-0.028173277560349673,0.7073441114941634
+Coal rents (% of GDP),Total excluding LUCF,183,0.024160712561662953,0.7454475699976597,0.4626530627120499,4.28818428848128e-11
+"Government expenditure per student, tertiary (% of GDP per capita)",Land-Use Change and Forestry,159,0.023390959216736153,0.7697808147358588,0.2674667024679178,0.0006536212296796177
+Coal rents (% of GDP),Total including LUCF,183,0.022996674974688363,0.7573196531124575,0.4454666803716121,2.6348572327021466e-10
+"Central government debt, total (% of GDP)",Total excluding LUCF,96,0.022396651281285485,0.828524724024082,-0.05283505154639175,0.609174827833848
+Average share of weighted deprivations of total households (intensity) (%)PERCENTALLAREA,Land-Use Change and Forestry,6,0.02222998134707517,0.9666605206973442,0.5428571428571429,0.26570262390670557
+Proportion of households living in multidimensional poverty (%)PERCENTALLAREA,Land-Use Change and Forestry,6,0.02222998134707517,0.9666605206973442,0.5428571428571429,0.26570262390670557
+Military expenditure (% of GDP),Total excluding LUCF,163,0.018903126034612493,0.8107155420061712,0.17941598638890272,0.02192704769349544
+"Industry (including construction), value added (% of GDP)",Land-Use Change and Forestry,186,0.015913692963242916,0.8293117189250806,-0.06857211278477988,0.3523764221051999
+Discrepancy in expenditure estimate of GDP (current LCU),Total excluding LUCF,171,0.015711750868367517,0.8383820751717502,0.060245879509325403,0.43377388265179284
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREAFEMALE,Total excluding LUCF,45,0.015523804272370587,0.9193818273202511,-0.0839262187088274,0.5836095057857382
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEURBANBOTHSEX,Land-Use Change and Forestry,56,0.01435544152322124,0.9163688945245786,0.06965378174236987,0.609977784079828
+Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)CU_USD,Total including LUCF,134,0.01358773159289016,0.876172567890043,0.2183742160134453,0.01124947235070048
+Number of deaths and missing persons attributed to disasters (number)NUMBER,Land-Use Change and Forestry,156,0.01194585664447606,0.8823356602964102,0.2264761353724926,0.004469497846254347
+"PPP conversion factor, GDP (LCU per international $)",Total including LUCF,187,0.010401669517164503,0.8876402422694623,0.05826381216990447,0.42831605887958024
+"Number of directly affected persons attributed to disasters per 100,000 population (number)PER_100000_POP",Land-Use Change and Forestry,160,0.010192391302707212,0.8982145451683048,0.24672033269939314,0.0016603640638068482
+Net investment in nonfinancial assets (% of GDP),Land-Use Change and Forestry,144,0.009524897956454184,0.909788610956565,0.27545643887693827,0.0008331035297921817
+Number of deaths due to disaster (number)NUMBER,Land-Use Change and Forestry,155,0.00918122673720768,0.909727327578806,0.2021692152685566,0.01164516881263086
+GDP per unit of energy use (PPP $ per kg of oil equivalent),Land-Use Change and Forestry,164,0.006995496447208501,0.9291598544011667,0.07931436514085947,0.3127148511267873
+Military expenditure (% of GDP),Total including LUCF,163,0.006644143115362942,0.9329174147664181,0.14537993028192042,0.06407576733118643
+[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)PERCENTFEMALE,Total excluding LUCF,76,0.006455795930801527,0.9558611120947615,0.0696187473353639,0.5501140233549908
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREAFEMALE,Total including LUCF,45,0.0053077540166042575,0.9723957001673967,-0.08695652173913042,0.5700451828656133
+External balance on goods and services (% of GDP),Land-Use Change and Forestry,176,0.0049533845179511645,0.9479779621280574,-0.11344738821414346,0.13382965739260688
+"Number of deaths and missing persons attributed to disasters per 100,000 population (number)PER_100000_POP",Land-Use Change and Forestry,156,0.0044516570631767055,0.9560155551724318,0.33139585460207127,2.380025916921846e-05
+GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent),Land-Use Change and Forestry,160,0.0028100322320361213,0.9718678074548261,0.0495617824982424,0.5336922410909675
+Proportion of population below international poverty line (%)PERCENTALLAGEURBANBOTHSEX,Total including LUCF,138,0.0025403821252600626,0.9764089297034679,-0.023162787936869742,0.7874200556921649
+Energy intensity level of primary energy (MJ/$2017 PPP GDP),Land-Use Change and Forestry,188,0.0012594935025058052,0.9863136509505636,0.0899847367955525,0.2194196308764896
+Gross national expenditure (% of GDP),Land-Use Change and Forestry,171,0.000536790321927398,0.9944404176927375,0.11750414799559315,0.12586746172785743
+Discrepancy in expenditure estimate of GDP (constant LCU),Total excluding LUCF,147,-0.0005009435114997691,0.9951953534653838,0.16145473059175566,0.05074135756265318
+Natural gas rents (% of GDP),Total excluding LUCF,186,-0.0032293008892042884,0.9651076635404526,0.6358930541849819,1.8226303526979918e-22
+Discrepancy in expenditure estimate of GDP (constant LCU),Total including LUCF,147,-0.003335822014603792,0.9680137750022957,0.1306509922221459,0.11472538837275974
+Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)CU_USD,Total excluding LUCF,134,-0.003395442771167466,0.9689406438928757,0.2505389223247681,0.0035032099252901125
+"PPP conversion factor, GDP (LCU per international $)",Total excluding LUCF,187,-0.0050850932977445406,0.9449324749458887,-0.011012666125912524,0.8810875363565599
+GDP growth (annual %),Land-Use Change and Forestry,190,-0.005302093882225502,0.9421223974030449,0.19636346297195495,0.006621391346312563
+Net acquisition of financial assets (% of GDP),Land-Use Change and Forestry,137,-0.005321561456729898,0.950788202421825,0.02608123423246252,0.7622500550943543
+"Government expenditure per student, primary (% of GDP per capita)",Total excluding LUCF,161,-0.005990201984018972,0.9398840630607415,0.1556446974925236,0.048660577183900676
+Oil rents (% of GDP),Land-Use Change and Forestry,186,-0.006226620282274001,0.9327796503518597,0.010440805594303857,0.887524300428036
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEURBANBOTHSEX,Total including LUCF,56,-0.008227923368370745,0.9520087660951929,0.025632700494181575,0.8512513841501218
+Natural gas rents (% of GDP),Total including LUCF,186,-0.008262575447268616,0.910879892295975,0.6186800753431871,4.957182584931071e-21
+"Foreign direct investment, net inflows (% of GDP)",Land-Use Change and Forestry,187,-0.008633888852895634,0.9066404038774416,-0.04651703859487667,0.5272639930229663
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREAMALE,Total excluding LUCF,45,-0.008910414795250815,0.9536753767821593,-0.09736495388669301,0.5245946407657032
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEURBANBOTHSEX,Total excluding LUCF,56,-0.00978863250393725,0.9429194798929366,0.011517626755385589,0.9328586076951896
+GDP deflator: linked series (base year varies by country),Total including LUCF,190,-0.011514103608365292,0.8747177353640732,-0.09351388943563098,0.19938420299008106
+Oil rents (% of GDP),Total excluding LUCF,186,-0.011759438225510897,0.8734311737419477,0.5646617311620524,4.688683201411247e-17
+Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)CU_USD,Total excluding LUCF,139,-0.012335607067199179,0.8854003166942296,0.1280612640271712,0.13299923900037813
+"Inflation, GDP deflator: linked series (annual %)",Total excluding LUCF,190,-0.012675551006848149,0.8621999411145969,0.14407484680287105,0.04734635059526095
+GDP deflator (base year varies by country),Total including LUCF,190,-0.012768387184204836,0.8612008129527448,-0.09370984179471367,0.19843994082892363
+"Inflation, GDP deflator (annual %)",Total excluding LUCF,190,-0.012890912885455364,0.8598824955645369,0.13416000734821346,0.06497698644727413
+"Foreign direct investment, net outflows (% of GDP)",Total excluding LUCF,183,-0.012920431025874365,0.862184590948297,0.3352418469150144,3.501935541595385e-06
+[World Bank] Proportion of population covered by labour market programs (%)PERCENT,Land-Use Change and Forestry,71,-0.013000548894280197,0.9143092898552367,-0.21975368674218573,0.06556451189628357
+Oil rents (% of GDP),Total including LUCF,186,-0.013331375566356881,0.856683069114835,0.5595326200704358,1.0272818658904497e-16
+Direct economic loss attributed to disasters (current United States dollars)CU_USD,Total excluding LUCF,149,-0.013688157224271828,0.8684041828186381,0.24044312205336435,0.003139658633218294
+[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)PERCENTFEMALE,Total including LUCF,76,-0.013713882564972604,0.9064012876348724,-0.06847215479056694,0.5567176735723507
+Direct economic loss attributed to disasters relative to GDP (%)PERCENT,Total excluding LUCF,148,-0.013935735961761557,0.8664997147717113,-0.010990829246991051,0.8945259491986353
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREAMALE,Total including LUCF,45,-0.015835485025773373,0.9177686935966963,-0.09552042160737811,0.5325166952089786
+Coal rents (% of GDP),Land-Use Change and Forestry,183,-0.015853511921556752,0.8313221348812976,-0.1911518622640857,0.009539697761437883
+"Manufacturing, value added (% of GDP)",Land-Use Change and Forestry,184,-0.01599396727490912,0.8293868510872814,-0.2339833889444898,0.0013897560795073831
+Discrepancy in expenditure estimate of GDP (current LCU),Total including LUCF,171,-0.016290206260186856,0.8325176686010297,0.06728746542628032,0.38188107744784827
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Land-Use Change and Forestry,160,-0.017804192985019306,0.8231781875654807,-0.0526615923510867,0.5083824044090555
+"Foreign direct investment, net outflows (% of GDP)",Total including LUCF,183,-0.017833646591143722,0.8106286745258147,0.270324679735378,0.00021477559489944
+Discrepancy in expenditure estimate of GDP (constant LCU),Land-Use Change and Forestry,147,-0.0179128024915213,0.8294987995216491,-0.1423968400579706,0.08533976416831371
+Net lending (+) / net borrowing (-) (% of GDP),Land-Use Change and Forestry,152,-0.018506946298739495,0.8209643559566825,-0.026276121005832712,0.7479565026531689
+"Government expenditure per student, primary (% of GDP per capita)",Total including LUCF,161,-0.019837568866243726,0.8027622660728788,0.059949390384173004,0.4499938833361432
+GDP deflator: linked series (base year varies by country),Total excluding LUCF,190,-0.01998584811184279,0.7843187678931745,-0.09457588123887381,0.19430548057004798
+Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)CU_USD,Total including LUCF,139,-0.020303455625733123,0.8124728862022613,0.12644171957223527,0.13801490949513204
+Tax revenue (% of GDP),Land-Use Change and Forestry,154,-0.020512439588455743,0.8006505034588874,-0.2533151141319488,0.001525381563167992
+GDP deflator (base year varies by country),Total excluding LUCF,190,-0.021210991541394157,0.7714515961389835,-0.09248688912508148,0.20438643717719632
+Direct economic loss attributed to disasters (current United States dollars)CU_USD,Total including LUCF,149,-0.021219226192979335,0.7972859077452794,0.2284747937300658,0.005069709643029556
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,88,-0.021281844749345163,0.8439768950427113,0.08846152152846092,0.41245227044785815
+"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,85,-0.021404725750459555,0.8458296819849845,-0.37849265286284683,0.0003546553582843806
+Direct economic loss attributed to disasters relative to GDP (%)PERCENT,Total including LUCF,148,-0.021487645811683078,0.7954639910195955,-0.012813103398937537,0.8771660073443523
+Current account balance (% of GDP),Land-Use Change and Forestry,185,-0.022882452689502637,0.7571952647067323,-0.15417038260256508,0.03614658702805114
+"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)PERCENT",Total including LUCF,42,-0.024375148437646606,0.8782213336386742,0.14447775706992952,0.3613118770104655
+"Personal remittances, received (% of GDP)",Land-Use Change and Forestry,183,-0.026971326841826272,0.7170328122075296,0.009562958111690625,0.8977676976783031
+"Net incurrence of liabilities, total (% of GDP)",Total including LUCF,140,-0.027372833444420697,0.7481829808264051,0.044967308827709884,0.597806716106823
+"Foreign direct investment, net outflows (% of GDP)",Land-Use Change and Forestry,183,-0.027591009599074304,0.7108182853653255,-0.35937760501839044,5.847448777435473e-07
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",Land-Use Change and Forestry,174,-0.027983867642004123,0.7139593746684608,-0.1350412227838493,0.07563014622379832
+Mineral rents (% of GDP),Total including LUCF,190,-0.028103906192055068,0.7003075625828954,0.3396474847488353,1.633966709450125e-06
+"Revenue, excluding grants (% of GDP)",Land-Use Change and Forestry,153,-0.029268832288302384,0.7194877846398252,-0.4030352679911771,2.40220475281767e-07
+"Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)PERCENT",Total excluding LUCF,42,-0.029887723904808386,0.8509620880558446,0.13848148448261893,0.3817898675403334
+Natural gas rents (% of GDP),Land-Use Change and Forestry,186,-0.03169865758771318,0.6675552683930115,-0.1073385961725329,0.14477134682219786
+"Net incurrence of liabilities, total (% of GDP)",Total excluding LUCF,140,-0.03378346205535277,0.6919127249148885,0.0467079224158667,0.5836919000937151
+"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)PERCENT",Land-Use Change and Forestry,144,-0.03429425016759497,0.6832263885710869,0.27437504920571154,0.0008750052615813872
+Proportion of population below international poverty line (%)PERCENT<15YALLAREABOTHSEX,Total including LUCF,142,-0.0349361942907059,0.679783049735378,-0.02924618155643849,0.7297169708112705
+Average share of weighted deprivations of total households (intensity) (%)PERCENTALLAREA,Total including LUCF,6,-0.03522164778536491,0.9471893756844092,0.3142857142857143,0.5440932944606414
+Proportion of households living in multidimensional poverty (%)PERCENTALLAREA,Total including LUCF,6,-0.03522164778536491,0.9471893756844092,0.3142857142857143,0.5440932944606414
+Direct economic loss attributed to disasters (current United States dollars)CU_USD,Land-Use Change and Forestry,149,-0.03551214537841579,0.6672204129609448,0.020550582083213725,0.8035422049789527
+Direct economic loss attributed to disasters relative to GDP (%)PERCENT,Land-Use Change and Forestry,148,-0.03554723801236948,0.6679816685743274,0.10555434218283695,0.2016707315086928
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTBOTHSEX",Total including LUCF,88,-0.03572376484860722,0.7410731849763567,0.04089342086185273,0.7052169722004756
+Mineral rents (% of GDP),Total excluding LUCF,190,-0.03638867647654611,0.6181750087531712,0.29042619342946974,4.807497145118521e-05
+Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)CU_USD,Land-Use Change and Forestry,139,-0.036712721668687956,0.667870325445678,0.005504596229171838,0.9487212648420837
+"Foreign direct investment, net inflows (% of GDP)",Total excluding LUCF,187,-0.03740169196250607,0.6113068460572156,-0.30516151053920043,2.168619419976723e-05
+Gross domestic savings (% of GDP),Land-Use Change and Forestry,172,-0.037671459689382764,0.6236894486800961,-0.16589248409435117,0.029638540907974822
+Proportion of population below international poverty line (%)PERCENT15-64ALLAREABOTHSEX,Total including LUCF,142,-0.03793417211159135,0.6540061209990418,-0.03672747047564782,0.664334582052298
+"Foreign direct investment, net inflows (% of GDP)",Total including LUCF,187,-0.04068871007478933,0.5803264200032526,-0.31626226331301227,1.0359155220581184e-05
+General government final consumption expenditure (% of GDP),Total excluding LUCF,170,-0.04102326850730207,0.5953111215623726,-0.0776705076300218,0.3140550942750121
+Net lending (+) / net borrowing (-) (% of GDP),Total excluding LUCF,152,-0.04108996252756424,0.6152303781477234,-0.11242559066149987,0.1678917262335325
+Total natural resources rents (% of GDP),Total including LUCF,190,-0.04282354071423588,0.5574349338259422,0.2975631524340683,3.0540568645789414e-05
+Exports of goods and services (% of GDP),Land-Use Change and Forestry,176,-0.04330575349694056,0.5682099295665132,-0.19262889086628535,0.010427060822557732
+"Government expenditure per student, secondary (% of GDP per capita)",Total excluding LUCF,156,-0.044039044824527196,0.5851424594537171,0.03245404687771648,0.6875391567043982
+Net acquisition of financial assets (% of GDP),Total excluding LUCF,137,-0.04425034424870772,0.607641504873804,-0.09591259544122313,0.264887076948813
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREAFEMALE,Total including LUCF,139,-0.04437665453821411,0.6039531246657359,-0.045397521557651054,0.595647917558362
+"Government expenditure on education, total (% of GDP)",Land-Use Change and Forestry,186,-0.045160720462134825,0.5404911350463752,-0.28061073852457513,0.00010468952640148726
+Net lending (+) / net borrowing (-) (% of GDP),Total including LUCF,152,-0.046442988274475586,0.56992114136468,-0.11288007709183359,0.166168574909
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24FEMALE",Total including LUCF,133,-0.0468113494142359,0.592613639826709,-0.11035700459928757,0.2060320193634281
+Net acquisition of financial assets (% of GDP),Total including LUCF,137,-0.04719258060792097,0.5839535020903096,-0.08427296656523606,0.3275331026340651
+Total natural resources rents (% of GDP),Total excluding LUCF,190,-0.04772798013010323,0.5131657592391337,0.22644270967047597,0.0016802161910517788
+Trade in services (% of GDP),Land-Use Change and Forestry,185,-0.04790264837231255,0.5173069536728665,-0.1779776096389732,0.015361920313622822
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREAMALE,Total including LUCF,139,-0.04819829732965433,0.5731313959547122,-0.04360119263731287,0.6102960154182868
+Imports of goods and services (% of GDP),Land-Use Change and Forestry,176,-0.048295885891336626,0.5244353155306979,-0.12234859062041661,0.10573698419927154
+Trade (% of GDP),Land-Use Change and Forestry,176,-0.0486286951479136,0.5215779596365854,-0.15593840761766659,0.038764724334771385
+Merchandise trade (% of GDP),Land-Use Change and Forestry,187,-0.05158703089784365,0.4831913088782544,-0.15140913614703216,0.038588644266170785
+"Number of deaths and missing persons attributed to disasters per 100,000 population (number)PER_100000_POP",Total excluding LUCF,156,-0.051820791076479036,0.5205694299460434,-0.32377182490768935,3.739690299993602e-05
+"Government expenditure on education, total (% of GDP)",Total excluding LUCF,186,-0.05225400641051174,0.4787406251070372,-0.08018593028080694,0.27660791728314305
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24BOTHSEX",Total including LUCF,133,-0.052555309268404855,0.5479787829057309,-0.10740598595145684,0.21849604203166348
+Average share of weighted deprivations of total households (intensity) (%)PERCENTALLAREA,Total excluding LUCF,6,-0.052858868984082374,0.9207855419504136,0.08571428571428573,0.8717434402332361
+Proportion of households living in multidimensional poverty (%)PERCENTALLAREA,Total excluding LUCF,6,-0.052858868984082374,0.9207855419504136,0.08571428571428573,0.8717434402332361
+Proportion of population below international poverty line (%)PERCENT65+ALLAREABOTHSEX,Total including LUCF,141,-0.053265655841524755,0.5304560795842042,-0.019504990247276446,0.8184266427398648
+Expense (% of GDP),Total excluding LUCF,152,-0.05351363188834891,0.5126071758184741,-0.03630765655861508,0.6569831929861072
+"Employed population below international poverty line, by sex and age (%)PERCENT15+FEMALE",Total including LUCF,133,-0.053801392314243926,0.538517213110271,-0.10560956156740421,0.22634076865936628
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,38,-0.05393914355113443,0.747732894258802,-0.023201123790509377,0.8900332345810151
+"Number of deaths and missing persons attributed to disasters per 100,000 population (number)PER_100000_POP",Total including LUCF,156,-0.0539886923897247,0.503250704185921,-0.2845486027555751,0.00031804368792145364
+General government final consumption expenditure (% of GDP),Total including LUCF,170,-0.054395034543062167,0.48111292763277896,-0.1432099217762471,0.06245275714508619
+"Employed population below international poverty line, by sex and age (%)PERCENT25+FEMALE",Total including LUCF,133,-0.05467807237392065,0.5319094326146936,-0.1009667102412206,0.24752929216609143
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24MALE",Total including LUCF,133,-0.05491649054768136,0.5301194580680285,-0.10288326183725938,0.23862211927433746
+"Employed population below international poverty line, by sex and age (%)PERCENT25+MALE",Total including LUCF,133,-0.05547979936797662,0.5259023493930653,-0.09100080277322216,0.2975371983401114
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",Total excluding LUCF,174,-0.055742660576427426,0.46504511988824254,-0.07253851191662633,0.34149994950777507
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTMALE",Land-Use Change and Forestry,12,-0.05604852799733915,0.8626441839925117,-0.30569920271880274,0.3338931364506602
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,12,-0.05604852799733918,0.8626441839925117,-0.30569920271880274,0.3338931364506602
+"Employed population below international poverty line, by sex and age (%)PERCENT25+BOTHSEX",Total including LUCF,133,-0.05623984692004439,0.5202393850446931,-0.09278675305248148,0.28811686800915665
+"Employed population below international poverty line, by sex and age (%)PERCENT15+BOTHSEX",Total including LUCF,133,-0.05661839006148611,0.5174305727656059,-0.09555560139930606,0.27390915359906254
+"Employed population below international poverty line, by sex and age (%)PERCENT15+MALE",Total including LUCF,133,-0.05690667855338867,0.5152966723034814,-0.0909442208981543,0.2978389380135226
+Proportion of population below international poverty line (%)PERCENTALLAGEURBANBOTHSEX,Total excluding LUCF,138,-0.05693399800044427,0.5071526731470432,-0.17302568341249874,0.04241384249033542
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREAMALE,Land-Use Change and Forestry,45,-0.05796815358599162,0.7052538859909336,0.006324110671936758,0.9671125401139753
+"Government expenditure per student, secondary (% of GDP per capita)",Total including LUCF,156,-0.05908431056312039,0.4637608688966087,0.0019060865167296233,0.9811592563089853
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREABOTHSEX,Total including LUCF,165,-0.059453565216879806,0.44811558145438113,-0.12749738365381758,0.10268998266011811
+[World Bank] Proportion of population covered by labour market programs (%)PERCENT,Total excluding LUCF,71,-0.059628201250667014,0.6213359747630751,-0.03329979879275653,0.7827899497220466
+Proportion of population below international poverty line (%)PERCENTALLAGERURALBOTHSEX,Total including LUCF,134,-0.060192734259956894,0.4896408336174376,-0.07755458297485007,0.373095024101709
+"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,33,-0.06113911881192645,0.7353695543661758,-0.5326423603236522,0.0014175320697080308
+"Government expenditure on education, total (% of GDP)",Total including LUCF,186,-0.06192088868859362,0.40113189708450775,-0.13630815566299437,0.06357745736751412
+[World Bank] Proportion of population covered by labour market programs (%)PERCENT,Total including LUCF,71,-0.06288560384833279,0.6023707998058704,-0.06559356136820925,0.5868017151306095
+Market capitalization of listed domestic companies (% of GDP),Land-Use Change and Forestry,96,-0.0629281097803174,0.5424618404650838,-0.092748887739255,0.36876719741526676
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",Total including LUCF,174,-0.06299654271757592,0.4089104040361879,-0.08582590620461858,0.2601483880042561
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24FEMALE",Total excluding LUCF,133,-0.06325812776852521,0.46945447806226,-0.263787934826383,0.002155217072036884
+Proportion of population living in multidimensional poverty (%)PERCENT<16YALLAREABOTHSEX,Total excluding LUCF,33,-0.06634616055080476,0.7137394420243045,-0.07553475935828878,0.6761073250302029
+Expense (% of GDP),Land-Use Change and Forestry,152,-0.06748389212964184,0.4087635725821208,-0.4353181067014182,2.085909703681289e-08
+"Government expenditure per student, tertiary (% of GDP per capita)",Total including LUCF,159,-0.06755823330071462,0.3974843328743955,-0.1253120710772315,0.11551796730929385
+"Government expenditure per student, tertiary (% of GDP per capita)",Total excluding LUCF,159,-0.06758177673036492,0.3973194997541253,-0.2081250060642194,0.008474865487390794
+"Proportion of total government spending on essential services, education (%)PERCENT",Total including LUCF,182,-0.06830395586147192,0.3595659836330368,-0.10993489799757347,0.13957755322009083
+Expense (% of GDP),Total including LUCF,152,-0.06895910262592353,0.39857320105972815,-0.12903655711151663,0.11311000118993553
+Number of people whose damaged dwellings were attributed to disasters (number)NUMBER,Land-Use Change and Forestry,160,-0.06909953523907866,0.3852668668602393,0.1920193764428353,0.014994550311990552
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24BOTHSEX",Total excluding LUCF,133,-0.06933953719027182,0.42773739334228783,-0.2615095612733398,0.002361853146963298
+"Number of directly affected persons attributed to disasters per 100,000 population (number)PER_100000_POP",Total excluding LUCF,160,-0.07090526234147296,0.3729407996840941,-0.3203308696964659,3.6358625813516466e-05
+"Proportion of total government spending on essential services, education (%)PERCENT",Total excluding LUCF,182,-0.07155891417849933,0.3370741308055785,-0.13191092939304153,0.0758847599510489
+"Employed population below international poverty line, by sex and age (%)PERCENT15+FEMALE",Total excluding LUCF,133,-0.0716998591681132,0.412139662347173,-0.25828028866526737,0.002685486192445086
+"Employed population below international poverty line, by sex and age (%)PERCENT15-24MALE",Total excluding LUCF,133,-0.07176676838579413,0.411702421927098,-0.2571877493448666,0.002803729749406795
+General government final consumption expenditure (% of GDP),Land-Use Change and Forestry,170,-0.07275534927129278,0.3457498882737331,-0.3250835534266938,1.5227630685995543e-05
+"Employed population below international poverty line, by sex and age (%)PERCENT25+FEMALE",Total excluding LUCF,133,-0.07295853351039587,0.40396011470902676,-0.2540404980586096,0.0031710768433744134
+"Number of directly affected persons attributed to disasters per 100,000 population (number)PER_100000_POP",Total including LUCF,160,-0.07320588353327312,0.3575915764535604,-0.29750036045608025,0.0001331914088343074
+"Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,22,-0.07348442240108125,0.745186383547536,-0.3271186962748129,0.1372794844770455
+Number of injured or ill people attributed to disasters (number)NUMBER,Land-Use Change and Forestry,145,-0.07375984357308976,0.3779387302352142,0.1630649170024121,0.050030381064457924
+"Employed population below international poverty line, by sex and age (%)PERCENT25+MALE",Total excluding LUCF,133,-0.07414905625499353,0.3963125572109037,-0.23836057900967858,0.005729022585478498
+"Employed population below international poverty line, by sex and age (%)PERCENT15+BOTHSEX",Total excluding LUCF,133,-0.07470542026342814,0.39276847057107384,-0.24665598887707268,0.00420866645022546
+"Employed population below international poverty line, by sex and age (%)PERCENT25+BOTHSEX",Total excluding LUCF,133,-0.0747661609321384,0.39238270041254375,-0.2434207934699801,0.0047522585950205655
+Proportion of population living below the national poverty line (%)PERCENTALLAREA,Total including LUCF,147,-0.07506724246325462,0.36618206734489755,-0.15534132798642353,0.06027775910360681
+"Employed population below international poverty line, by sex and age (%)PERCENT15+MALE",Total excluding LUCF,133,-0.07508653961165596,0.39035170373360234,-0.24081917464250005,0.005234078587688104
+Gross savings (% of GDP),Land-Use Change and Forestry,167,-0.07686999504688662,0.32345643707893706,-0.22435642729495534,0.0035591731479153593
+Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)CU_USD_M,Land-Use Change and Forestry,122,-0.07880814835683783,0.38822189166666515,-0.3356501113773469,0.00015716718914580616
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTMALE",Land-Use Change and Forestry,38,-0.07893977753273482,0.6375705421169262,-0.1679902932201937,0.3133794389457189
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREABOTHSEX,Total excluding LUCF,165,-0.0790477736434207,0.3128557055975307,-0.26554831074568586,0.0005664295379446011
+GDP per unit of energy use (PPP $ per kg of oil equivalent),Total excluding LUCF,164,-0.08146612765361923,0.2997263221448644,-0.3791955164392692,5.522395107102232e-07
+Proportion of population living in multidimensional poverty (%)PERCENT<16YALLAREABOTHSEX,Total including LUCF,33,-0.0830429007353927,0.6459138731595054,-0.07286096256684492,0.6869835966376383
+Forest rents (% of GDP),Total including LUCF,190,-0.08464711116298858,0.24557454820161273,-0.02327318858049409,0.7499350473975899
+GDP per unit of energy use (PPP $ per kg of oil equivalent),Total including LUCF,164,-0.08469663571867508,0.28090493143072437,-0.3764313794839008,6.773007996648341e-07
+Military expenditure (% of GDP),Land-Use Change and Forestry,163,-0.08600416370308861,0.27500838681060263,-0.10481216505376262,0.1830165231592856
+Proportion of population below international poverty line (%)PERCENT<15YALLAREABOTHSEX,Total excluding LUCF,142,-0.08674702846394425,0.3046512460243943,-0.19079172783207124,0.022942851337927197
+"Revenue, excluding grants (% of GDP)",Total excluding LUCF,153,-0.08697889708429654,0.28503629317643003,-0.022368756114886142,0.7837376503214806
+Proportion of population below international poverty line (%)PERCENT15-64ALLAREABOTHSEX,Total excluding LUCF,142,-0.0887564832856623,0.29354256288834985,-0.19422431921853198,0.020553129882475537
+GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent),Total excluding LUCF,160,-0.08951310287975445,0.2603159491748114,-0.4179157388960506,3.829103398971479e-08
+GDP per capita growth (annual %),Land-Use Change and Forestry,190,-0.08999404061853344,0.216903631842872,-0.1546352640781037,0.033149762341422376
+Proportion of population living below the national poverty line (%)PERCENTALLAREA,Total excluding LUCF,147,-0.09148853157351486,0.2704255159103656,-0.2856446645278765,0.0004530990914417297
+"Government expenditure per student, secondary (% of GDP per capita)",Land-Use Change and Forestry,156,-0.09152391770904984,0.25581997043535665,-0.23462533239285494,0.0031966309669271566
+GDP per capita (constant 2015 US$),Land-Use Change and Forestry,189,-0.09350707601710363,0.20061984451717824,-0.4623354123158918,2.1238066449112473e-11
+GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent),Total including LUCF,160,-0.09383802064213721,0.23789400118776188,-0.4223016524082972,2.6626494750995076e-08
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREAFEMALE,Total excluding LUCF,139,-0.09442726962907828,0.2688561558371188,-0.21285827434022214,0.011876239773639014
+"Government expenditure per student, primary (% of GDP per capita)",Land-Use Change and Forestry,161,-0.09473763946371495,0.2319268382426143,-0.4655792094389746,4.872719923909815e-10
+Gross fixed capital formation (% of GDP),Land-Use Change and Forestry,170,-0.09489115079588205,0.21836755716761347,-0.17135946861143622,0.025461826161437964
+"Revenue, excluding grants (% of GDP)",Total including LUCF,153,-0.09595331810028566,0.23805263558815623,-0.10778952729417124,0.18476808373216203
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREAFEMALE,Land-Use Change and Forestry,45,-0.09634088531073051,0.5289856979249864,-0.061133069828722,0.6899473607640522
+"Agriculture, forestry, and fishing, value added (% of GDP)",Total including LUCF,188,-0.09819926440900596,0.18001681106602013,-0.1285138168742674,0.07880940517890735
+Proportion of population below international poverty line (%)PERCENTALLAGEALLAREAMALE,Total excluding LUCF,139,-0.09885574923075297,0.24694327236440075,-0.2090779403436895,0.01350766835776531
+Forest rents (% of GDP),Total excluding LUCF,190,-0.10075325596003692,0.16662028893832403,-0.11957483121255776,0.10033124365563983
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,88,-0.10092543779326932,0.34946926618129864,-0.27160798571197203,0.01047348329863998
+Proportion of population living in multidimensional poverty (%)PERCENT<18YALLAREABOTHSEX,Land-Use Change and Forestry,45,-0.10106001895588398,0.5089019436626264,0.009915340783453973,0.9484574976422792
+"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,88,-0.10145168954416206,0.3469493147629962,-0.4263799275735838,3.440667570571797e-05
+Proportion of population below international poverty line (%)PERCENT65+ALLAREABOTHSEX,Total excluding LUCF,141,-0.1015822632825123,0.23068802299265936,-0.19129317970235507,0.023069173645547697
+Number of people affected by disaster (number)NUMBER,Land-Use Change and Forestry,160,-0.10249357223206494,0.19715948893771065,0.25398134403097,0.0011921234186357769
+[World Bank] Proportion of population covered by social assistance programs (%)PERCENT,Land-Use Change and Forestry,111,-0.1026043394904202,0.28390067340251623,-0.2571362761389929,0.006441826052905461
+Price level ratio of PPP conversion factor (GDP) to market exchange rate,Land-Use Change and Forestry,186,-0.103737112839166,0.1588196142873739,-0.2350461334072225,0.0012406933918669434
+"GDP per capita, PPP (current international $)",Land-Use Change and Forestry,186,-0.10396623998215035,0.15789644388986027,-0.4839742775360579,2.592877093359899e-12
+"Services, value added (% of GDP)",Land-Use Change and Forestry,184,-0.10491832638412835,0.15636668294144257,-0.34269515643170034,1.9182244344631797e-06
+GDP per capita (current US$),Land-Use Change and Forestry,190,-0.10522064959443614,0.14851142242237597,-0.4736243373820252,5.145601359434429e-12
+Gross national expenditure (% of GDP),Total excluding LUCF,171,-0.10631740791781046,0.16635564620556276,-0.5364269085847313,3.9720337072068486e-14
+"Agriculture, forestry, and fishing, value added (% of GDP)",Total excluding LUCF,188,-0.10724340052808602,0.14295680489107682,-0.21749950786246153,0.0027149827126208147
+"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)PERCENTFEMALE",Total excluding LUCF,29,-0.10843766964398907,0.5755315679577245,-0.070935960591133,0.7146189503238104
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTMALE",Land-Use Change and Forestry,23,-0.10985412380543351,0.6177959862733863,-0.32141217326661253,0.13478695765111529
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,23,-0.10985412380543352,0.6177959862733868,-0.32141217326661253,0.13478695765111529
+Current health expenditure (% of GDP),Land-Use Change and Forestry,188,-0.1101592512771732,0.13234004716625608,-0.27712535030824065,0.00011807393023259055
+Gross national expenditure (% of GDP),Total including LUCF,171,-0.11186677038331311,0.14520068059049365,-0.5228190174478605,2.2130808675731005e-13
+Gross capital formation (% of GDP),Land-Use Change and Forestry,171,-0.11292666736212358,0.14140341133860204,-0.1925551689683424,0.01163005166251771
+Proportion of population below international poverty line (%)PERCENTALLAGERURALBOTHSEX,Total excluding LUCF,134,-0.11571830875367288,0.1830363020840452,-0.24458409705856685,0.004397688601941499
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,80,-0.11613704159729386,0.30494384284762577,-0.5090016191341875,1.4270557647720416e-06
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGERURALBOTHSEX,Total including LUCF,55,-0.11633896914422967,0.39763471615560797,-0.08095238095238096,0.5568444706727067
+"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)NUMBER",Land-Use Change and Forestry,100,-0.11645542102919697,0.24856424742692856,0.44483160348218725,3.5379521391075964e-06
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREABOTHSEX,Total including LUCF,64,-0.11920170448864917,0.3481573833207412,-0.10526556776556774,0.4077665367910783
+"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)PERCENTFEMALE",Total including LUCF,10,-0.1204066541115244,0.7403959016382159,0.34545454545454546,0.32822651147136733
+"GDP per capita, PPP (constant 2017 international $)",Land-Use Change and Forestry,182,-0.1218853205931603,0.1011902154359233,-0.5014382624501683,5.585006730439354e-13
+Monetary Sector credit to private sector (% GDP),Land-Use Change and Forestry,180,-0.1248150189589581,0.09503066775314013,-0.4663411254711624,4.1736436035277515e-11
+Domestic credit to private sector by banks (% of GDP),Land-Use Change and Forestry,180,-0.12492971563853435,0.09472485201535524,-0.4669884912776014,3.891214973653726e-11
+"Personal remittances, received (% of GDP)",Total excluding LUCF,183,-0.12607433295256426,0.08901662877158674,-0.45993671332231567,5.752208801159292e-11
+Domestic general government health expenditure (% of GDP),Land-Use Change and Forestry,188,-0.12735265999971163,0.08157418659555049,-0.44989366238850653,9.345801048505067e-11
+"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)PERCENTFEMALE",Total including LUCF,29,-0.12817173715238045,0.5075828390919928,-0.15369458128078814,0.4260261401420079
+"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,33,-0.12923212595133224,0.47351524287045726,-0.4428475935828877,0.009854780873726574
+GDP per person employed (constant 2017 PPP $),Land-Use Change and Forestry,171,-0.13006685860566652,0.08996540877724259,-0.49326116868274084,7.168719504725991e-12
+Tax revenue (% of GDP),Total excluding LUCF,154,-0.13221383924454208,0.1021440875252976,-0.2148516884759769,0.007454221970527142
+"Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,29,-0.13366768058087547,0.48939498477041193,-0.3975369458128078,0.03271737063024196
+[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)PERCENTFEMALE,Land-Use Change and Forestry,76,-0.13420435235479697,0.2477573381626052,-0.419429140727411,0.00016234755512522695
+"Proportion of population using basic sanitation services, by location (%)PERCENTALLAREA",Land-Use Change and Forestry,192,-0.13517570910074567,0.06156608210002991,-0.5660561195641832,1.1677336010417976e-17
+"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)PERCENT",Total excluding LUCF,144,-0.13624742788694594,0.10345658573248606,-0.5108512177477695,6.07609703830714e-11
+"Personal remittances, received (% of GDP)",Total including LUCF,183,-0.1368369743770345,0.06473113800796676,-0.47379046470279557,1.2513104874651042e-11
+Households and NPISHs final consumption expenditure (% of GDP),Total including LUCF,170,-0.13757124692606562,0.07361615785176491,-0.35435176873614604,2.1283171749238926e-06
+"Proportion of population using basic drinking water services, by location (%)PERCENTURBAN",Land-Use Change and Forestry,168,-0.13932687422339463,0.0716720848246646,-0.5220203462667031,3.969848779289895e-13
+"Proportion of population using basic sanitation services, by location (%)PERCENTURBAN",Land-Use Change and Forestry,167,-0.14044176466870745,0.07025568559108057,-0.5959473537519132,1.962878104295272e-17
+"Proportion of population using basic drinking water services, by location (%)PERCENTALLAREA",Land-Use Change and Forestry,192,-0.1405907030935894,0.05177107664950597,-0.5415962025313837,4.998225728183568e-16
+Broad money (% of GDP),Land-Use Change and Forestry,161,-0.14181634810058732,0.07273217941703339,-0.41530985475028137,4.299091998375693e-08
+Tax revenue (% of GDP),Total including LUCF,154,-0.1423368400792257,0.0782485878100261,-0.2743865874795666,0.0005739350796716973
+Households and NPISHs final consumption expenditure (% of GDP),Total excluding LUCF,170,-0.14248828031020566,0.06379894720223243,-0.3948913355438719,9.87817015504169e-08
+"Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)PERCENT",Total including LUCF,144,-0.1459961701498244,0.08080170911282156,-0.42469254883047985,1.1253388757631638e-07
+Exports of goods and services (% of GDP),Total excluding LUCF,176,-0.14715979163028362,0.05129441981589883,-0.17741360334580675,0.018492607501952973
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGEALLAREABOTHSEX,Total excluding LUCF,64,-0.15013689550700582,0.23635426451211589,-0.20599816849816846,0.10245378538535069
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTMALE",Land-Use Change and Forestry,44,-0.1513360949020943,0.3267831649642586,0.0074726828752218625,0.9616032238567765
+Final consumption expenditure (% of GDP),Total excluding LUCF,172,-0.15209370156807026,0.046398707601065126,-0.47398136421845033,5.1157743858385345e-11
+Final consumption expenditure (% of GDP),Total including LUCF,172,-0.15435099417119552,0.04321094543260146,-0.44890725267261444,6.561122360568811e-10
+"Proportion of population using basic sanitation services, by location (%)PERCENTRURAL",Land-Use Change and Forestry,165,-0.15709981883704283,0.04388649784307346,-0.5950482798400912,3.510613025021423e-17
+"Proportion of population using basic drinking water services, by location (%)PERCENTRURAL",Land-Use Change and Forestry,166,-0.15855703038544436,0.04131513100230234,-0.5712923229601721,9.163274342898338e-16
+"Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)PERCENTBOTHSEX",Total including LUCF,22,-0.15952964787068238,0.4782347037380623,-0.3774011901754317,0.08335572344108323
+CO2 emissions (kg per 2015 US$ of GDP),Land-Use Change and Forestry,187,-0.15999205694228366,0.028720763959604496,-0.2502345975249018,0.0005521726031656902
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,175,-0.16018764047264372,0.03420971728970746,-0.5138192494342888,3.5417914562645384e-13
+Proportion of population living in multidimensional poverty (%)PERCENT<16YALLAREABOTHSEX,Land-Use Change and Forestry,33,-0.16049264582349998,0.37227820420586055,-0.016042780748663103,0.929391209708627
+"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,95,-0.16114504099691523,0.11874344939364939,-0.577536813726495,8.942813728617728e-10
+Exports of goods and services (% of GDP),Total including LUCF,176,-0.16158315013545524,0.032155904714145346,-0.21312128549416687,0.004512371054026372
+Proportion of population living in multidimensional poverty (%)PERCENTALLAGERURALBOTHSEX,Total excluding LUCF,55,-0.168127197705117,0.21982933914408775,-0.22481962481962486,0.09889970303143644
+Merchandise trade (% of GDP),Total excluding LUCF,187,-0.16843826547547883,0.021199983958956517,-0.20449315309826432,0.004994621150150797
+Trade in services (% of GDP),Total excluding LUCF,185,-0.17080784877445424,0.020093309367406647,-0.6230051931314203,2.824629701348788e-21
+Net investment in nonfinancial assets (% of GDP),Total excluding LUCF,144,-0.17205054943656423,0.039206294367217495,-0.5626637730086006,2.1421365921044033e-13
+Research and development expenditure (% of GDP),Land-Use Change and Forestry,139,-0.17534676242742192,0.03895478116158404,-0.5040397550261786,2.523226271256586e-10
+Net investment in nonfinancial assets (% of GDP),Total including LUCF,144,-0.17992351163507317,0.0309350544640077,-0.5173418535487502,3.152783174362312e-11
+Merchandise trade (% of GDP),Total including LUCF,187,-0.18517111102214007,0.011174992003839436,-0.23937730080489178,0.0009682577027699693
+[World Bank] Proportion of population covered by social insurance programs (%)PERCENT,Land-Use Change and Forestry,115,-0.18688403499555695,0.04551426719986529,-0.5110956816445651,5.333108887119665e-09
+Trade in services (% of GDP),Total including LUCF,185,-0.1871069676711324,0.010764766210567416,-0.6610155035821236,1.3261176817304956e-24
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YURBANBOTHSEX,Total including LUCF,9,-0.18969156789906422,0.6249642730615241,-0.11666666666666665,0.7650079429261462
+Domestic credit to private sector (% of GDP),Land-Use Change and Forestry,180,-0.19020990146654151,0.010541309076730912,-0.4917046913437882,2.3947329990125826e-12
+"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,126,-0.19594196932141952,0.02788615963326976,-0.5583461840604438,1.097465406746706e-11
+"Gross fixed capital formation, private sector (% of GDP)",Land-Use Change and Forestry,102,-0.19615773972466652,0.04816374127273508,-0.23687819448871034,0.016525887387941446
+Trade (% of GDP),Total excluding LUCF,176,-0.199812628988895,0.007842130975251046,-0.4345256438476778,1.6847888934547806e-09
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTMALE",Land-Use Change and Forestry,59,-0.20379195945679138,0.12158383062293292,-0.5033949896030848,4.825535116769945e-05
+"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,59,-0.20577411977076546,0.11792396509341656,-0.436071231490789,0.0005556169288284262
+Average share of weighted deprivations of total households (intensity) (%)PERCENTURBAN,Total including LUCF,3,-0.207713343526701,0.8667957566801718,0.5,0.6666666666666667
+Proportion of households living in multidimensional poverty (%)PERCENTURBAN,Total including LUCF,3,-0.207713343526701,0.8667957566801718,0.5,0.6666666666666667
+CO2 emissions (kg per 2017 PPP $ of GDP),Land-Use Change and Forestry,182,-0.21195698222928827,0.0040728346155819465,-0.40859573970214874,1.02704423841086e-08
+Score of adoption and implementation of national DRR strategies in line with the Sendai FrameworkINDEX,Land-Use Change and Forestry,118,-0.21291963298716451,0.020619022840899098,-0.18374122209901275,0.04640571407925427
+Discrepancy in expenditure estimate of GDP (current LCU),Land-Use Change and Forestry,171,-0.21341923870375176,0.005067460138569386,0.03676108020309748,0.633113596675771
+"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,83,-0.2169660081672532,0.04881382711549706,-0.48130188998154333,4.1032335559890785e-06
+Trade (% of GDP),Total including LUCF,176,-0.21783320291225716,0.0036813347541829857,-0.4658023332599604,7.294226112032005e-11
+Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)PERCENT,Land-Use Change and Forestry,102,-0.2194635064207987,0.026674460827003345,-0.23409167562644864,0.0178808755532682
+"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)PERCENTBOTHSEX",Total including LUCF,33,-0.22029939817212438,0.2179750791721759,-0.12399732620320857,0.4917642698479151
+Imports of goods and services (% of GDP),Total excluding LUCF,176,-0.23034474500381166,0.002101079834449803,-0.572128549416685,1.0897678909703604e-16
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YURBANBOTHSEX,Total excluding LUCF,9,-0.2313124765527064,0.5492824074660744,-0.016666666666666666,0.9660548039946861
+"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,44,-0.23543165207968259,0.1239425075915754,-0.09311013360414731,0.547739626376512
+"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)PERCENTBOTHSEX",Total excluding LUCF,33,-0.24921613039069618,0.16192776674369502,-0.05681818181818182,0.7534723249161992
+"Stocks traded, total value (% of GDP)",Land-Use Change and Forestry,98,-0.24952178233806338,0.013220558507365343,-0.31249881547206054,0.001731836514433129
+Imports of goods and services (% of GDP),Total including LUCF,176,-0.2499256880589311,0.0008220486843819594,-0.600873871890821,1.184806984913578e-18
+Claims on other sectors of the domestic economy (% of GDP),Land-Use Change and Forestry,47,-0.2521633469029131,0.08727539288762413,-0.40698447590074904,0.004524821504297066
+Domestic credit provided by financial sector (% of GDP),Land-Use Change and Forestry,57,-0.25325099063740536,0.05733384143022153,-0.40255383972487246,0.0019068515912597428
+CO2 emissions (kg per PPP $ of GDP),Land-Use Change and Forestry,186,-0.2640765123987948,0.00027040948800149343,-0.4501356516834954,1.1480259357877812e-10
+GDP (current US$),Land-Use Change and Forestry,190,-0.3132671932973448,1.078125679785062e-05,-0.27777652372923095,0.00010434474352106345
+GDP (constant 2015 US$),Land-Use Change and Forestry,189,-0.3200229464976023,7.154995320229288e-06,-0.2804337278094454,9.288261437831878e-05
+"GDP, PPP (current international $)",Land-Use Change and Forestry,186,-0.32356542097605095,6.6411368621327994e-06,-0.24151638025427927,0.0008971477272174408
+"GDP, PPP (constant 2017 international $)",Land-Use Change and Forestry,182,-0.3293067760968702,5.64576489525837e-06,-0.26462608859895215,0.00030622734140057747
+"Proportion of people with secure tenure rights to land out of total adult population, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,10,-0.3476452506351209,0.3249618633918282,0.006060606060606061,0.9867429111949892
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTFEMALE",Land-Use Change and Forestry,10,-0.35582642285935673,0.3129200605376713,-0.4497993899599911,0.1921319971372382
+"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)PERCENTMALE",Land-Use Change and Forestry,10,-0.36226341877098944,0.30361298147248034,-0.13839981229538187,0.7029830875777792
+"Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)PERCENTBOTHSEX",Land-Use Change and Forestry,22,-0.3736321874005946,0.08673749414918898,-0.275141286849454,0.2152393199736181
+Average share of weighted deprivations of total households (intensity) (%)PERCENTRURAL,Total excluding LUCF,3,-0.41851996753688137,0.7250979770507463,-0.5,0.6666666666666667
+Proportion of households living in multidimensional poverty (%)PERCENTRURAL,Total excluding LUCF,3,-0.41851996753688137,0.7250979770507463,-0.5,0.6666666666666667
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGEALLAREABOTHSEX,Total including LUCF,28,-0.4568070671849399,0.01453860358158115,-0.06513409961685823,0.7419338618991111
+Number of local governments (number)NUMBER,Land-Use Change and Forestry,106,-0.47476316510555927,2.72160031675419e-07,-0.1087328325301021,0.2672176732831488
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGEALLAREABOTHSEX,Total excluding LUCF,28,-0.5092402682678188,0.005645318571848277,-0.17569786535303775,0.3711594965591887
+Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)NUMBER,Land-Use Change and Forestry,102,-0.5116330812706708,3.8926040127395906e-08,-0.08540980243635249,0.39336728958170797
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YRURALBOTHSEX,Total including LUCF,9,-0.578028755249796,0.10305086384923982,-0.19999999999999998,0.6059012741795533
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGERURALBOTHSEX,Total including LUCF,21,-0.5980735248506096,0.004187120749154379,0.02727272727272727,0.9065844922540648
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YALLAREABOTHSEX,Total including LUCF,11,-0.6184516007206229,0.042529232433646355,-0.29090909090909095,0.38545696969136556
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGEURBANBOTHSEX,Total including LUCF,21,-0.6373067102715791,0.001887384391728247,-0.10389610389610389,0.6540274583163916
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YALLAREABOTHSEX,Total excluding LUCF,11,-0.6495020300132911,0.030555987313422163,-0.29090909090909095,0.38545696969136556
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGERURALBOTHSEX,Total excluding LUCF,21,-0.6585479142096283,0.0011704422250180205,-0.17792207792207793,0.4403496824576797
+Proportion of children living in child-specific multidimensional poverty (%)PERCENT<18YRURALBOTHSEX,Total excluding LUCF,9,-0.6589387889806433,0.05357331499001505,-0.13333333333333333,0.7323675052362975
+Average proportion of deprivations for people multidimensionally poor (%)PERCENTALLAGEURBANBOTHSEX,Total excluding LUCF,21,-0.6934828034460268,0.0004902061157554049,-0.29480519480519485,0.19452701576620296
+Average share of weighted deprivations of total households (intensity) (%)PERCENTURBAN,Total excluding LUCF,3,-0.8979715915279091,0.29008100220265515,-0.5,0.6666666666666667
+Proportion of households living in multidimensional poverty (%)PERCENTURBAN,Total excluding LUCF,3,-0.8979715915279091,0.29008100220265515,-0.5,0.6666666666666667
